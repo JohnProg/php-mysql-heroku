@@ -1,0 +1,7 @@
+{
+  "name": "Start on Heroku: PHP and MySql",
+  "description": "Template PHP and MySql",
+  "addons": [
+       "cleardb:ignite"
+   ]
+}
